@@ -74,7 +74,6 @@ export default {
     // methods
     const onClick = (e) => {
       slideToggle(e);
-      console.log(e);
     };
 
     const changeCount = (e, id, index) => {
